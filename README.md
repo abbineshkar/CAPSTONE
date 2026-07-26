@@ -1,8 +1,4 @@
 # Federated Phishing Email Detection — Full Pipeline
-
-**Project:** MSc Adaptive Cybersecurity — Abbineshkar Loganathan (25248174)  
-**University of Galway**
-
 ---
 
 ## Project Structure
